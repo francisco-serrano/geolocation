@@ -1,0 +1,6 @@
+geolocation\GeoLocationController.class
+geolocation\GeoLocationApplication.class
+geolocation\GeoLocation.class
+geolocation\GeoLocationRepository.class
+geolocation\GeoLocationServiceImpl.class
+geolocation\GeoLocationService.class
